@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map TriangleSolver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TriangleSolver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+function	KEYWORD2
+void UpdateA	KEYWORD2
+void UpdateB	KEYWORD2
+void UpdateC	KEYWORD2
+
+void UpdateAlpha	KEYWORD2
+void UpdateBeta	KEYWORD2
+void UpdateGamma	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
