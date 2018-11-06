@@ -1,4 +1,4 @@
-# Librería Arduino LibName
+# Librería Arduino TriangleSolver
 La librería TriangleSolver implementa los cálculos necesarios para resolver cualquier tipo de triángulo de forma sencilla en un procesador como Arduino.
 
 Está pensada para ayudar en la resolución de cinemática de robots y otros tipos de mecanismos articulados en los que, en muchos casos, es necesario resolver los ángulos o longitudes repetidamente.
